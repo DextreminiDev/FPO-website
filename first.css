@@ -526,7 +526,7 @@ section {
     }
 }
 
-@media screen and (min-width: 600px between max-width:800px) {
+/* @media screen and (min-width: 600px between max-width:800px) { */
 
     /* Make responsive between 600px to 1150px */
 
@@ -594,4 +594,4 @@ section {
     #ourefforts {
         width: 106%;
     }
-} 
+/* }  */
